@@ -1,12 +1,13 @@
-import pandas as pd
+try:
+    from ipumspy import IpumsApiClient  # type: ignore[import-not-found]
+except ImportError:  # pragma: no cover - optional dependency for local development
+    IpumsApiClient = None
 
-DATA_URL = "https://metadata.ffcws.princeton.edu/get_metadata"
+API_KEY = '59cba10d8a5da536fc06b59db6b6b155db435d9b1cf4c4ffd59d42'
 
+if IpumsApiClient is not None:
+    ipums = IpumsApiClient(API_KEY)
+else:
+    ipums = None
 
-def get_metadata():
-    return pd.read_csv(DATA_URL, encoding="latin1", low_memory=False)
-
-
-FOF_dataframe = get_metadata
-
-__all__ = ["get_metadata", "FOF_dataframe"]
+__all__ = ["ipums"]
