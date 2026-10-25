@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-stylesheet type="text/xsl" href="ipums-ddi-xslt.xsl"?>
-<codeBook ID="ddi2-c35a93c0-b11b-013f-8125-02420a1c0304-nhis_00003.dat-nhis.ipums.org" version="2.5" xmlns="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd">
+<codeBook ID="ddi2-c35a93c0-b11b-013f-8125-02420a1c0304-nhis_00004.dat-nhis.ipums.org" version="2.5" xmlns="ddi:codebook:2_5" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="ddi:codebook:2_5 http://www.ddialliance.org/Specification/DDI-Codebook/2.5/XMLSchema/codebook.xsd">
   <docDscr>
     <citation>
       <titlStmt>
         <titl>Codebook for an Integrated Health Interview Series Data Extract</titl>
-        <subTitl>DDI 2.5 metadata describing the extract file  'nhis_00003.dat'</subTitl>
-        <IDNo>ddi2-c35a93c0-b11b-013f-8125-02420a1c0304-nhis_00003.dat-nhis.ipums.org</IDNo>
+        <subTitl>DDI 2.5 metadata describing the extract file  'nhis_00004.dat'</subTitl>
+        <IDNo>ddi2-c35a93c0-b11b-013f-8125-02420a1c0304-nhis_00004.dat-nhis.ipums.org</IDNo>
       </titlStmt>
       <rspStmt>
         <AuthEnty affiliation="University of Minnesota">IPUMS</AuthEnty>
       </rspStmt>
       <prodStmt>
         <producer abbr="IPUMS" affiliation="University of Minnesota" role="Documentation">IPUMS</producer>
-        <prodDate date="2026-10-24">October 24, 2026</prodDate>
+        <prodDate date="2026-10-25">October 25, 2026</prodDate>
         <prodPlac>IPUMS, 50 Willey Hall, 225 - 19th Avenue South, Minneapolis, MN 55455</prodPlac>
       </prodStmt>
       <distStmt>
@@ -24,14 +24,14 @@
   <stdyDscr>
     <citation>
       <titlStmt>
-        <titl>User Extract nhis_00003.dat</titl>
+        <titl>User Extract nhis_00004.dat</titl>
       </titlStmt>
       <rspStmt>
         <AuthEnty affiliation="University of Minnesota">IPUMS</AuthEnty>
       </rspStmt>
       <prodStmt>
         <producer abbr="IPUMS" affiliation="University of Minnesota" role="Documentation">IPUMS</producer>
-        <prodDate date="2026-10-24">October 24, 2026</prodDate>
+        <prodDate date="2026-10-25">October 25, 2026</prodDate>
         <prodPlac>IPUMS, 50 Willey Hall, 225 - 19th Avenue South, Minneapolis, MN 55455</prodPlac>
       </prodStmt>
       <distStmt>
@@ -42,7 +42,7 @@
         <serInfo>DOI:10.18128/D070.V8.2</serInfo>
       </serStmt>
       <verStmt>
-        <version date="2026-10-24"/>
+        <version date="2026-10-25"/>
       </verStmt>
     </citation>
     <stdyInfo>
@@ -52,12 +52,14 @@
         <topcClas vocab="IPUMS">Technical Person Variables -- PERSON</topcClas>
         <topcClas vocab="IPUMS">Core Demographic Variables -- PERSON</topcClas>
         <topcClas vocab="IPUMS">Family Interrelationships Variables -- PERSON</topcClas>
+        <topcClas vocab="IPUMS">Income Sources Variables -- PERSON</topcClas>
+        <topcClas vocab="IPUMS">Material Hardship Variables -- PERSON</topcClas>
       </subject>
-      <sumDscr ID="sdatref-2448">
-        <timePrd date="2025" event="single">2025</timePrd>
+      <sumDscr ID="sdatref-2447">
+        <timePrd date="2024" event="single">2024</timePrd>
         <nation abbr="us">United States</nation>
       </sumDscr>
-      <notes><![CDATA[Additional notes on a sample that is part of this study:  2025 NHIS
+      <notes><![CDATA[Additional notes on a sample that is part of this study:  2024 NHIS
 ]]></notes>
     </stdyInfo>
     <dataAccs>
@@ -116,7 +118,7 @@ Furthermore, users of NHIS data must agree to abide by the conditions of use. Us
   </stdyDscr>
   <fileDscr ID="ExtractData">
     <fileTxt>
-      <fileName>nhis_00003.dat</fileName>
+      <fileName>nhis_00004.dat</fileName>
       <fileCont>Microdata records</fileCont>
       <fileStrc type="rectangular"/>
       <fileType charset="ISO-8859-1">ISO-8859-1 data file</fileType>
@@ -400,6 +402,87 @@ Prior to 2019, the variable FAMSIZE reports family size without top-codes.]]></t
 03: Top code for 3 or more children (2019-forward)
 98: Unknown-not ascertained]]></codInstr>
   <concept vocab="IPUMS">Family Interrelationships Variables -- PERSON</concept>
+  <varFormat schema="other" type="numeric"/>
+</var>
+<var ID="GOTSTAMPFAM" dcml="0" files="ExtractData" intrvl="discrete" name="GOTSTAMPFAM">
+  <location EndPos="84" StartPos="83" width="2"/>
+  <labl>Any family member received food stamp/SNAP benefits last calendar year</labl>
+  <txt><![CDATA[For sample children and sample adults, (and family reference persons from 1990 to 1996 and all persons from 1997 to 2018), GOTSTAMPFAM indicates if ANY family member(s) in the person's family was authorized to receive food stamps or SNAP benefits at any time during the month prior to the interview (in the 1990-1996 samples) or during the previous calendar year (from 1997 forward). 
+
+From 1993 to 1996, the universe only included family reference persons who are not from single-person or married-couple only families with an annual income above $20,000.
+
+In 1993, this question was only asked of persons who were interviewed in quarters 3 and 4.
+&nbsp;From 1990 to 1996, GOTSTAMPFAM is part of the Family Resources supplement that provides information on individuals' health benefits, amount of coverage and income received from employment, welfare benefits, public assistance, and savings. Starting in 1997, this variable is part of the family file questionnaires. 
+
+Questions in the Family Resources supplement are different from those in the family life questionnaires in terms of the content and the treatment of missing data. Missing data in the Family Resources supplement were imputed and users can refer to the imputation flag variables to identify persons with imputed data. 
+
+Please refer to GOTSTMPFAMFL to identify persons in families whose data on food stamp receipt was imputed.From 1997 to 2010, the term "food stamps" was defined as including "a food stamp card or voucher, or cash grants from the state for food." Beginning in 2011, the Supplemental Nutrition Assistance Program replaced food stamps.
+
+Data users interested in whether a particular person was eligible for food stamp benefits may wish to use variable GOTSTAMP, which indicates whether the specific person was authorized to receive food stamps during the past year. GOTSTAMP is only available from 1997 to 2010 and was discontinued with the introduction of the SNAP program. NHIS cautions GOTSTAMP "may have limited analytic value at the person level since food stamp authorization is based on a family's economic circumstances."]]></txt>
+  <catgry>
+    <catValu>10</catValu>
+    <labl>No</labl>
+  </catgry>
+  <catgry>
+    <catValu>20</catValu>
+    <labl>Yes</labl>
+  </catgry>
+  <catgry>
+    <catValu>21</catValu>
+    <labl>Yes, last calendar year</labl>
+  </catgry>
+  <catgry>
+    <catValu>22</catValu>
+    <labl>Yes, last month</labl>
+  </catgry>
+  <catgry>
+    <catValu>70</catValu>
+    <labl>Unknown-refused</labl>
+  </catgry>
+  <catgry>
+    <catValu>80</catValu>
+    <labl>Unknown-not ascertained</labl>
+  </catgry>
+  <catgry>
+    <catValu>90</catValu>
+    <labl>Unknown-don't know</labl>
+  </catgry>
+  <catgry>
+    <catValu>00</catValu>
+    <labl>NIU</labl>
+  </catgry>
+  <concept vocab="IPUMS">Income Sources Variables -- PERSON</concept>
+  <varFormat schema="other" type="numeric"/>
+</var>
+<var ID="FSSTATDET" dcml="0" files="ExtractData" intrvl="discrete" name="FSSTATDET">
+  <location EndPos="85" StartPos="85" width="1"/>
+  <labl>Detailed family-level food security status on the 30-day food security scale</labl>
+  <txt><![CDATA[FSSTATDET indicates food security status for the sample adult and sample child's family (and prior to 2019, for the person's family) based on their raw score (FSRAWSCORE) on the 30-day food security scale. Based on recommendations from the USDA Economic Research Service, FSSTATDET divides FSRAWSCORE into four categories: high food security (a score of 0), marginal food security (a score between 1 and 2), low food security (a score between 3 and 5), and very low food security (a score between 6 and 10).
+
+For a simpler version of food security status, please see FSSTAT. The sole difference between FSSTAT and FSSTATDET is that FSSTAT combines the categories of high and marginal food security into a single "food secure" category.
+
+FSSTATDET is one of a set of variables comprising the Family Food Security Supplement, designed to study 30-day family food security. For more information about the measurement of 30-day family food security or for a list of other variables in the Family Food Security Supplement, please refer to FSRAWSCORE.]]></txt>
+  <catgry>
+    <catValu>1</catValu>
+    <labl>High food security (raw score 0)</labl>
+  </catgry>
+  <catgry>
+    <catValu>2</catValu>
+    <labl>Marginal food security (raw score 1-2)</labl>
+  </catgry>
+  <catgry>
+    <catValu>3</catValu>
+    <labl>Low food security (raw score 3-5)</labl>
+  </catgry>
+  <catgry>
+    <catValu>4</catValu>
+    <labl>Very low food security (raw score 6-10)</labl>
+  </catgry>
+  <catgry>
+    <catValu>9</catValu>
+    <labl>Unknown</labl>
+  </catgry>
+  <concept vocab="IPUMS">Material Hardship Variables -- PERSON</concept>
   <varFormat schema="other" type="numeric"/>
 </var>
 </dataDscr>
