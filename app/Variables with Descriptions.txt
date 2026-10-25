@@ -1,0 +1,791 @@
+acptchgdif	Amount of difficulty accepting changes to routine
+actnowinc	Now increasing physical activity or exercise
+acuhlth	Saw a practitioner of acupuncture to restore overall health
+acupain	Saw a practitioner of acupuncture for pain
+acuyr	Had acupuncture, past 12 months
+addev	Ever told had ADHD/ADD
+adhdnow	Currently has ADHD or ADD
+adltputdown	Lifetime of being put down by adults in home
+aeffort	Felt everything an effort, past 30 days (adults)
+age	Age
+ahopeless	How often felt hopeless, past 30 days (adults)
+ahpv1stage	Age at first HPV shot for adults
+alc1yr	Ever had 12+ drinks in any one year
+alc5upevyr	Ever had 5+ drinks in a day, past year
+alc5upocc30d	Occasions had 5+ drinks in a row, past 30 days
+alcadvise	Health professional advised to stop or cut down on drinking , past 12 months
+alcamt	Average number of drinks on days drank
+alcanyno	Frequency drank alcohol in past year: Number of units
+alcanynoe	Frequency drank alcohol in past year: Edited number of units
+alcanytp	Frequency drank alcohol in past year: Time period
+alcanytpe	Frequency drank alcohol in past year: Edited time period
+alcdayswk	Frequency drank alcohol in past year: Days per week
+alcdaysyr	Frequency drank alcohol in past year: Days in past year
+alcdrinkev	Ever drink alcohol
+alcdrkhvy12m	Ever had 4+/5+ drinks on an occasion, past year
+alcdrugev	Ever lived with anyone with an alcohol or drug problem
+alcev30d	Ever had 1+ drinks, past 30 days
+alcstat1	Alcohol drinking status: Recode
+alonedoc	Ever have time alone to speak with doctor or health care professional
+anervous	How often felt nervous, past 30 days (adults)
+angipecev	Ever told had angina pectoris
+anxietyev	Ever told you had any anxiety disorder
+arestless	How often felt restless, past 30 days (adults)
+armfcc	Ever active-duty personnel on humanitarian or peacekeeping mission overseas
+armfev	Ever served in U.S. Armed Forces, Reserves, or National Guard
+arthexercise	Ever told to exercise to help arthritis
+arthglupev	Ever told had arthritis/rheumatoid arthritis/gout/lupus/fibromyalgia
+arthlimit	Limited in activities due to arthritis
+arthweight	Ever told to lose weight to help arthritis
+arthwork	Limited in work due to arthritis
+asad	How often felt sad, past 30 days (adults)
+aspmedev	Ever advised to take aspirin to control/prevent heart disease
+aspmedstop	Told by doctor to stop taking aspirin
+asponown	Taking aspirin on your own
+asptake	Takes aspirin to control/prevent heart disease
+astatflg	Sample adult flag
+astatqcflag	Quality control flag for sample adult
+asthatakyr	Had asthma attack/episode, past 12 months
+asthdayr	Days missed due to asthma, past 12 months
+astheryr	Visited ER for asthma, past 12 months
+asthmaev	Ever told had asthma
+asthmastil	Still have asthma
+asthospyr	Had hospital stay for asthma, past 12 months
+asthpinquick	Used prescription inhaler for quick relief, past 3 months
+asthprefreq	Frequency take preventive asthma meds
+asthwkretold	Ever told asthma work-related
+autismev	Ever told had autism
+autismnw	Currently has Autism, Asperger's disorder, pervasive development disorder, or autism spectrum disorder
+availablea	Sample adult availability
+aworthless	How often felt worthless, past 30 days (adults)
+badtemper	Often loses temper, past 6 months
+balconcusev	Ever had significant head injury or concussion
+balconcusnum	Number of significant head injuries or concussions in lifetime
+baldizyr	Had problem with dizziness or balance, past 12 months
+balprobyr	How big of a balance or dizziness problem
+balsawhpev	Ever saw health professional about balance problem
+baseneed	Ever a time where basic needs weren't met
+beanno	Frequency eating beans: number of time units
+beantp	Frequency eating beans: time period
+behavedif	Amount of difficulty controlling behavior
+bikefreq	How often child bikes at least 10 minutes in typical week during school year
+bmicalc	Body Mass Index, calculated from publicly released height and weight variables
+bmicat	Categorical body mass index
+bmriev	Ever had breast MRI
+bmrilgyr	Time since most recent breast MRI: Grouped year estimate
+bmrily	Main reason for most recent breast MRI
+bpscchg	Has hard time with change
+bpscclmdwn	Has hard time calming down
+bpsccryalt	Cries a lot
+bpscfussy	Is fussy or irritable
+bpschloppl	Minds being held by other people
+bpscmfrt	Is hard to comfort
+bpscnwplcs	Has hard time in new places
+bpscnwppl	Has hard time being with new people
+bpscprlksl	Is hard to get enough sleep because of sample child
+bpscptslp	Is hard to put to sleep
+bpscschd	Is hard to keep on a schedule or routine
+bpscstyslp	Has trouble staying asleep
+brexwhy	Reason for most recent breast exam
+bsthev	Ever had blood stool test using home test kit
+bsthgyrr	Time since home blood stool test: Grouped years
+bullies	Often fights or bullies kids, past 6 months
+bxev	Ever had breast physical exam
+bxlest	Time since most recent breast exam: Rough time estimate
+cancerev	Ever told had cancer
+cancerno	Number of kinds of cancer
+canewlkr	Uses a cane or walker
+cataractev	Ever told have cataracts
+cataractsurg	Ever had cataract surgery
+cataractvlos	Lost vision because of cataracts
+cervtesttype	At most recent cervical cancer screening, told type of test received
+cfhbev	Family ever had breast cancer
+cfhbno	Number of family members with breast cancer
+cfhbno50	Number of family members with breast cancer before age 50
+cfhev	Family ever had cancer
+cfhovev	Family ever had ovarian cancer
+cfhovno	Number of family members with ovarian cancer
+cfhrisk	Talked to doctor about family risk of cancer
+cfsstill	Still have Chronic Fatigue Syndrome
+chair	Uses wheelchair
+cheartdiev	Ever told had coronary heart disease
+chipdeduct	Annual deductible for CHIP plan
+chiphideduct	CHIP plan has a high deductible
+chipprem	Enrollment fee or premium for CHIP plan
+chipreasgnfl	CHIP reassignment flag
+chipxchg	Obtained CHIP coverage through Health Insurance Exchange
+cholchekyrg	Duration since last cholesterol check: Grouped years
+cholhighev	Ever told had high cholesterol
+cholhighyr	Had high cholesterol, past 12 months
+cholmednow	Now taking prescribed medicine to lower cholesterol
+chrfatigev	Ever had chronic fatigue syndrome
+cigardaysmo	Days smoked cigar in past 30 days
+cigarev	Ever smoked a cigar
+cigarfreqnow	Frequency of cigar smoking: Everyday/some days/not at all
+cigdaymo	Number days smoked in past 30 days (some day smokers)
+cigmenthol	Plain or menthol cigarettes smoked
+cigmentholfs	Usual cigarettes menthol, 12 months before quitting
+cigsday1	Number cigarettes per day (daily smokers)
+cigsday2	Number cigarettes per day (some day smokers)
+cigsdayfs	Number cigarettes per day (former smoker)
+cigslongfs	Cigarettes per day smoked, longest smoking period (former smokers)
+citizen	U.S. citizenship
+civmtg	Has attended a public meeting that discussed a local issue, past 12 months
+civvote	Has voted in the last local elections, past 12 months.
+classwk	Class of worker
+clingy	Clingy in new situations, past 6 months
+cmpsupport	Amount of social and emotional support received compared to 12 months ago
+cnblad	Ever had cancer: Bladder
+cnbladag	Age first diagnosed with bladder cancer
+cnblod	Ever had cancer: Blood
+cnblodag	Age first diagnosed with blood cancer
+cnbone	Ever had cancer: Bone
+cnboneag	Age first diagnosed with bone cancer
+cnbran	Ever had cancer: Brain
+cnbranag	Age first diagnosed with brain cancer
+cnbres	Ever had cancer: Breast
+cnbresag	Age first diagnosed with breast cancer
+cncerv	Ever had cancer: Cervix
+cncervag	Age first diagnosed with cervical cancer
+cncoln	Ever had cancer: Colon
+cncolnag	Age first diagnosed with colon cancer
+cncolrect	Ever had cancer: Colorectal cancer
+cncolrectag	Age first diagnosed with colorectal cancer
+cnesop	Ever had cancer: Esophagus
+cnesopag	Age first diagnosed with esophageal cancer
+cngall	Ever had cancer: Gall bladder
+cngallag	Age first diagnosed with gall bladder cancer
+cnhdnck	Ever had cancer: Head and neck cancer
+cnhdnckag	Age first diagnosed with head and neck cancer
+cnlarx	Ever had cancer: Larynx-windpipe
+cnlarxag	Age first diagnosed with larynx-windpipe cancer
+cnleuk	Ever had cancer: Leukemia
+cnleukag	Age first diagnosed with leukemia
+cnlivr	Ever had cancer: Liver
+cnlivrag	Age first diagnosed with liver cancer
+cnlung	Ever had cancer: Lung
+cnlungag	Age first diagnosed with lung cancer
+cnlymp	Ever had cancer: Lymphoma
+cnlympag	Age first diagnosed with lymphoma
+cnmeln	Ever had cancer: Melanoma
+cnmelnag	Age first diagnosed with melanoma
+cnmoth	Ever had cancer: Mouth/tongue/lip
+cnmothag	Age first diagnosed with mouth/tongue/lip cancer
+cnothr	Ever had cancer: Other kind
+cnothrag	Age first diagnosed with other type of cancer
+cnovar	Ever had cancer: Ovarian
+cnovarag	Age first diagnosed with ovarian cancer
+cnpanc	Ever had cancer: Pancreatic
+cnpancag	Age first diagnosed with pancreatic cancer
+cnpros	Ever had cancer: Prostate
+cnprosag	Age first diagnosed with prostate cancer
+cnrect	Ever had cancer: Rectal
+cnrectag	Age first diagnosed with rectal cancer
+cnskdk	Ever had cancer: Skin (don't know what kind)
+cnskdkag	Age first diagnosed with skin cancer (don't know kind)
+cnskmeln	Ever had cancer: Skin melanoma
+cnskmelnag	Age first diagnosed with skin melanoma cancer
+cnsknm	Ever had cancer: Skin (non-melanoma)
+cnsknmag	Age first diagnosed with skin (non-melanoma) cancer
+cnstom	Ever had cancer: Stomach
+cnstomag	Age first diagnosed with stomach cancer
+cnthro	Ever had cancer: Throat-pharynx
+cnthroag	Age first diagnosed with throat-pharynx cancer
+cnthyr	Ever had cancer: Thyroid
+cnthyrag	Age first diagnosed with thyroid cancer
+cnuter	Ever had cancer: Uterine
+cnuterag	Age first diagnosed with uterine cancer
+cofeteamno	Frequency drinking coffee and tea, past month: Number of units
+cofeteamtp	Frequency drinking coffee and tea, past month: Time period
+colcanbst	Doctor recommended blood stool test to check for colon cancer
+colcancol	Doctor recommended colonoscopy to check for colon cancer
+colcancolct	Doctor recommended CT colonoscopy to check for colon cancer
+colcancolg	Doctor recommended Cologuard test to check for colon cancer
+colcanoth	Doctor recommended other test to check for colon cancer
+colcansig	Doctor recommended sigmoidoscopy to check for colon cancer
+colgbst	Blood stool/FIT test part of Cologuard test
+colgev	Ever had Cologuard test
+colglgyre	Time since most recent Cologuard test: Rough time estimate
+collesty	Time since last colonoscopy: Grouped year estimate
+colly	Main reason for last colonoscopy
+colorectev	Ever had colonoscopy or sigmoidoscopy
+coloroth	Ever had other kind of test for colorectal cancer
+colpay	Amount paid out of pocket for recent colonoscopy
+colsigev	Ever had colonoscopy, sigmoidoscopy, or both
+colsigwhen	Time since last colonoscopy or sigmoidoscopy: Grouped year estimate
+coltdr1yr	Doctor recommended testing for colon or rectal problems, past 12 months
+comhlth	Saw chiropractor to restore overall health
+compain	Saw chiropractor for pain
+comyr	Saw chiropractor, past 12 months
+concdif	Amount of difficulty concentrating on activities
+considerate	Considerate of others' feelings, past 6 months
+copdev	Ever been told you had COPD
+covertype	Health insurance coverage type (hierarchy)
+covertype65	Health insurance hierarchy 65+
+cpi2009	CPI conversion factor
+crohnsev	Ever told had Crohn's disease
+crvtstab	Cervical cancer test in past 5 years had abnormal results
+crvtstev	Ever had cervical cancer test
+crvtsthpv	Had HPV test at most recent cervical cancer screening
+crvtstnot	Main reason did not have cervical cancer test
+crvtstpap	Had Pap test at most recent cervical cancer screening
+crvtstwhn	Time since most recent cervical cancer test
+crvtsty	Reason for cervical cancer test
+cscreentime	Child gets 2+ hours of screen time daily
+csleepbedtime	How often have a regular bedtime on school nights in a typical school week
+csleepgetup	How often difficult to get out of bed in the morning in a typical school week
+csleepnaps	How often nap or fall asleep during the day in a typical school week
+csleeprest	How often wake up feeling well rested in a typical school week
+csleeptired	How often complain of being tired during the day in a typical school week
+csleepwktime	How often wake up at same time in a typical school week
+csqchantxyr	Current smoker: Used Chantix last quitting attempt in year
+csqcounselyr	Current smoker: Used 1-on-1 counseling last quitting attempt in year
+csqecigyr	Current smoker: Used e-cigarettes last quitting attempt in year
+csqgumyr	Current smoker: Used nicotine gum last quitting attempt in year
+csqmedsyr	Current smoker: Used medication last quitting attempt in year
+csqpatchyr	Current smoker: Used nicotine patch last quitting attempt in year
+csqprogramyr	Current smoker: Used clinic/program last quitting attempt in year
+csqsprayyr	Current smoker: Used nicotine containing nasal spray or inhaler last quitting attempt in year
+csqstop12m	Stopped smoking 1+ days in past year (current daily smokers)
+csqtelineyr	Current smoker: Used telephone help/quit line last quitting attempt in year
+cstatflg	Sample child flag
+cstatqcflag	Quality control flag for sample child
+cswantquit	Would like to quit smoking
+ctcolev	Ever had CT colonoscopy
+ctcollesty	Time since last CT colonoscopy: Grouped year estimate
+currespalg	Currently have respiratory allergy symptoms
+cvdcanchg	Cancer treatments changed, delayed, or cancelled because of the coronavirus/COVID-19 pandemic
+cvdcanothchg	Other medical care for cancer changed, delayed, or cancelled because of the coronavirus/COVID-19 pandemic
+cvdcanothtr	Needed other medical care for cancer since start of coronavirus/COVID-19 pandemic
+cvdcantrea	In treatment or supposed to receive treatment for cancer since start of coronavirus/COVID-19 pandemic
+cvdclswrknosd	How often work close to others without social distancing measures at current or recent job
+cvdclswrksd	How often work close to others with social distancing measures at current or recent job
+cvdcurjobsd	Currently social distancing measures in effect at main job or business
+cvddiag	Ever told had or likely had coronavirus/COVID-19
+cvddlycare	Delayed getting medical care because of the coronavirus/COVID-19 pandemic
+cvddngcare	Did not get needed medical care other than for coronavirus/COVID-19 because of the coronavirus/COVID-19 pandemic
+cvddngfamcar	Did not get needed care at home from friend or family because of coronavirus/COVID-19 pandemic
+cvddnghmecare	Did not get needed medical care at home because of the coronavirus/COVID-19 pandemic
+cvdever	Ever told had, likely had, or tested positive for COVID-19
+cvdfamcar12m	Received care at home from friend or family member, past 12 months
+cvdfamcarepr	Friend or family provided some or all of the care health professional did not provide due to the coronavirus/COVID-19 pandemic
+cvdjobanysd	Social distancing measures ever in effect at current or recent job
+cvdjobsdev	Main job or business put social distancing measures into effect since start of the coronavirus/COVID-19 pandemic
+cvdlong	Had COVID-19 symptoms for 3 or more months
+cvdlongact	Long COVID-19 symptoms impact activities
+cvdlongnow	Currently has Long COVID-19 symptoms
+cvdlosesmell	Loss of smell due to COVID-19
+cvdlosetaste	Loss of taste due to COVID-19
+cvdmnjobsd12m	Any social distancing measures in effect at main job held in last 12 months
+cvdmodose1	Month of most recent COVID-19 vaccine - one or more doses
+cvdmodose2	Month of most recent COVID-19 vaccine - two or more doses
+cvdodordiff	Odors smell different due to COVID-19
+cvdrecsmell	Recovered loss of smell from COVID-19
+cvdrectaste	Recovered loss of taste from COVID-19
+cvdsht	COVID-19 vaccination
+cvdshtadd	Doctor told need another COVID-19 vaccination
+cvdshtnum	Number of COVID-19 vaccinations
+cvdshttype1	Brand of first COVID-19 shot
+cvdsmellchg	Changes in smelling due to COVID-19 (binary, constructed)
+cvdsymp	Severity of coronavirus/COVID-19 symptoms at their worst
+cvdtest	Ever been tested for coronavirus/COVID-19
+cvdtestrslt	Had coronavirus/COVID-19, according to test
+cvdvirappcvd	Had a virtual medical appointment because of reasons related to the coronavirus/COVID-19 pandemic
+cvdwclnosd	How often needed to work closer than 6 feet without social distancing measures
+cvdwclnosd12m	How often needed to work closer than 6 feet to other people at main job held in past 12 months when social distancing measures were not in effect
+cvdwcloft	How often need to work closer than 6 feet at main job or business (no social distancing)
+cvdwclsd12m	How often still needed to work closer than 6 feet to other people at main job held in past 12 months
+cvdwclsdcur	How often still need to work closer than 6 feet at main job or business
+cvdwclsdof	How often needed closer to work closer than 6 feet when social distancing measures were in effect
+cvdwclsoft12m	How often needed to work closer than 6 feet to other people at main job held in past 12 months (no social distancing measures at job)
+cvdyrdose1	Year of most recent COVID-19 vaccine - one or more doses
+cvdyrdose2	Year of most recent COVID-19 vaccine - two or more doses
+delayavail	Delayed care because an appointment wasn't available, past 12 months
+delaybusy	Delayed care because too busy to take the time, past 12 months
+delaycost	Medical care delayed due to cost, past 12 months
+delaydt	Delayed getting dental care, past 12 months
+delayhrs	Delayed care because doctor's office not open
+delayins	Delayed care because couldn't find doctor that accepts insurance, past 12 months
+delayinsl	Delayed buying insulin, past 12m
+delaylong	Delayed care because it takes too long to get to doctor's office, past 12 months
+delaytrans	Delayed care because lacked transportation
+dementiaev	Ever told you had Dementia
+denpdrym	Problem with dry mouth, past 6 months
+dentint	Interval since last dental visit
+depfeelevl	Level of depression, last time depressed
+depfreq	How often feel depressed
+depressev	Ever had depression
+deprx	Take medication for depression
+devdonset	Difficulty doing activities began before age 22
+dia1cexamyr	Number of exams for A1C hemoglobin, past 12 months
+diabeticage	Age first diagnosed with diabetes
+diabeticev	Ever told had diabetes
+diabtype	Type of diabetes
+diacvdstress	Level of distress due to diabetes compared to before coronavirus pandemic
+diadiagfam	Has mother, father, brother, or sister ever been told by a doctor or other health professional that they have diabetes or sugar diabetes
+diadiagpreg	First told had diabetes, sugar diabetes, or gestational diabetes during pregnancy
+diadistress	How often individual felt overwhelmed from having diabetes
+diaglp	Taking GLP-1 injectable medication(s)
+diainsllong	Length of time before started insulin after diagnosed w/ diabetes
+diainslstop	Stopped taking insulin for more than 6 months
+diainslstop1styr	Stopped taking insulin for more than 6 months during the first year after diabetes diagnosis
+dialasta1c	Time since A1C level checked
+diapills	Now taking diabetic pills
+diapre	Ever been told you have prediabetes
+diaretinev	Ever told had diabetic retinopathy
+diaretinvlos	Lost vision because of diabetic retinopathy
+diatestlong	Time since last had blood test for high blood sugar/diabetes
+diayrsago	Years since first diagnosed with diabetes
+dietdyr	Ever told by doctor or health professional to reduce fat or calories in diet, past 12 months
+dietnow	Currently reducing the amount of fat or calories in diet
+difburden	Child's difficulties put burden on adult or family
+diffriend	Child's difficulties interfere with friendships
+difhome	Child's difficulties interfere with home life
+diflearn	Child's difficulties interfere with classroom learning
+difleisure	Child's difficulties interfere with leisure activities
+difmos	Months child's difficulties present
+difscore	Strengths and Difficulties questionnaire: Impact score
+difupset	Difficulties upset or distress child
+disabwg24	Washington Group disability indicator for children ages 2 to 4
+disabwg517	Washington Group disability indicator for children ages 5 to 17
+disabwgss	Washington Group Short Set Composite Disability Indicator
+diserrandp	Has difficulty doing errands
+disfear	How often people act afraid of you
+disrespct	How often treated with less courtesy or respect
+disserv	How often receive poor service at restaurant or store
+dissmart	How often treated as not smart
+disthreat	How often threatend or harassed
+distracted	Easily distracted, past 6 months
+docvislwell	Last doctor visit was a wellness visit
+dpcounsel	Now sees a counselor, psychiatrist, psychologist, or social worker regularly
+dsocialp	Amount of difficulty participating in social activities
+dvint	Interval since last doctor visit
+dvintwell	Interval since last wellness visit
+earnchg	How much do your earnings change monthly
+eciged	Frequency of e-cigarette use
+ecigev	Ever used e-cigarette
+ecigstatus	Use e-cigarettes never, formerly, now
+educ	Educational attainment
+educparent	Highest level of education of all SC's parents
+emodiff	Difficulties with emotions, concentration, or behavior, past 6 months
+emosupport	How often get emotional support
+empft	Usually work 35+ hours per week
+emphi	Workplace offered health insurance
+emplast	Last time worked for pay
+empltax	Does employer deduct taxes?
+empstat	Employment status in past 1 to 2 weeks
+epilepsyev	Ever had epilepsy or seizures
+epilmdyr	Saw neurologist or epilepsy specialist, past 12 months
+epilrxnow	Now taking medication for epilepsy
+epilseiznoyr	Number of seizures in past 12 months
+eryrno	Number times in ER/ED in past 12 months
+exchange	Obtained plan through Health Insurance Exchange, NCHS algorithm
+eyexamdilyrs	Years since eye examination with pupil dilation
+eyexamev	Ever had vision tested
+eyexamop12mo	Saw ophthalmologist, past 12 months
+eyexamos	Months since vision tested
+fallergyr	Had food allergy, past 12 months
+famkidno	Number of family members under 18 (fam record)
+famsizecat	Number of persons in family (categorical)
+famstrucsc	Family structure of sample child
+famtotinc	Total family income, last year (top coded)
+fearful	Many fears or easily scared, past 6 months
+feltimetotyr	Total number of times fell, past 12 months
+felyr	Fell during past 12 months
+fidgety	Constantly fidgeting, past 6 months
+flclimb	How difficult to walk steps w/o special equipment
+flg65	Age 65 and older flag
+flucoldm	In the last 12 months, had cold or flu for longer than a month
+foalergyev	Ever told had food/odor allergy
+frcslnch12m	Any school-aged child in family received free or reduced-cost breakfasts or lunches at school, past 12 months
+friespno	Frequency eating fried potatoes, number of time units
+friesptp	Frequency eating fried potatoes, time period
+frtdrinkmno	Frequency drinking fruit-flavored drinks, past month: Number of units
+frtdrinkmtp	Frequency drinking fruit-flavored drinks, past month: Time period
+frutno	Frequency eating fruit, number of time units
+fruttp	Frequency eating fruit, time period
+fsateless	Ever ate less than felt should because not enough money, last 30 days
+fsbalanc	Family could not afford to eat balanced meals, last 30 days
+fshungry	Ever hungry but did not eat because not enough money, last 30 days
+fsnoteat	Any family members not eat for a whole day because not enough money for food, last 30 days
+fsnoteatno	Number of days any family member did not eat due to lack of money, last 30 days
+fsnotlast	Food did not last until family had money to get more, last 30 days
+fsqchantx2yr	Former smoker: Used Chantix to quit completely w/in 2 yrs
+fsqcounsel2yr	Former smoker: Used 1-on-1 counseling to quit completely w/in 2 yrs
+fsqecig2yr	Former smoker: Used e-cigarettes to quit completely w/in 2 yrs
+fsqgum2yr	Former smoker: Used nicotine gum to quit completely w/in 2 yrs
+fsqmeds2yr	Former smoker: Used medication to quit completely w/in 2 yrs
+fsqpatch2yr	Former smoker: Used nicotine patch to quit completely w/in 2 yrs
+fsqprogram2yr	Former smoker: Used clinic/program to quit completely w/in 2 yrs
+fsqspray2yr	Former smoker: Used nicotine containing nasal spray or inhaler to quit completely w/in 2 yrs
+fsqteline2yr	Former smoker: Used telephone help/quit line to quit completely w/in 2 yrs
+fsrawscore	Family's raw score on the 30-day food security scale
+fsrunout	Family worried food would run out before got money to buy more, last 30 days
+fsskip	Family members cut size or skipped meals because not enough money, last 30 days.
+fsskipno	Number of days any family members cut size or skipped meals for financial reasons, last 30 days.
+fsstat	Family-level food security status for 30-day food security
+fsstatdet	Detailed family-level food security status on the 30-day food security scale
+fsweight	Ever lost weight because not enough money for food, last 30 days
+ftwrkadltno	Number of adults in sample child/adult's family that are working full time
+gadannoy	Easily annoyed or irritable: past two weeks
+gadanx	Feel anxious or nervous: past two weeks
+gadcat	Severity of anxiety symptoms (GAD)
+gadfear	Feel afraid: past two weeks
+gadrelax	Trouble relaxing: past two weeks
+gadrstls	Restless or hard to sit still: past two weeks
+gadscreen	GAD-2 screener result
+gadworctrl	Not able to stop or control worrying: past two weeks
+gadwormuch	Worry too much: past two weeks
+gentcandisc	Ever discussed genetic testing for cancer risk with doctor
+gentcanev	Ever had genetic test for cancer risk
+getalongad	Gets along better with adults than kids, past 6 months
+glasslens	Uses eyeglasses or contact lenses
+glaucomaev	Ever told had glaucoma
+glaucomvlos	Lost vision because of glaucoma
+goodatten	Good attention span and finishes tasks, past 6 months
+gotint	Received income from savings/bank account interest, previous calendar year
+gotother	Received income from any other source, previous calendar year
+gotret	Received income from retirement, survivor, or disability pensions
+gotss	Received income from Social Security/RRR, previous calendar year
+gotssissdi	Received income from SSI or SSDI, previous calendar year
+gotstampfam	Any family member received food stamp/SNAP benefits last calendar year
+gotstmpfam30d	Any family member received food stamps/SNAP benefits last 30 days
+gotwage	Received income from wages/salary, previous calendar year
+gotwelf	Received income from welfare/public assistance, previous calendar year
+gotwic	Received WIC benefits during last calendar year
+gunfirextot	Total number of rounds ever fired
+gunusev	Ever used firearms
+gunuseyr	Used firearms, past 12 months
+hasfriend	Had at least 1 good friend, past 6 months
+health	Health status
+healthprov	Has a personal health care provider
+hearing	Quality of hearing without hearing aid
+heartattev	Ever told had heart attack
+height	Height in inches without shoes
+helpful	Often offers help to others, past 6 months
+helpshurt	Helpful if someone is hurt/upset/ill, past 6 months
+hepatev	Ever had hepatitis
+heplive	Ever live with someone with hepatitis
+hhadults	Topcoded count of adults in household
+hhkids	Topcoded count of children in household
+hhresp	Sample person household respondent identifier
+hhx	Household number (from NHIS)
+hichampva	Covered by CHAMP-VA military health care
+hichip	Has Children's Health Insurance Program
+hichipe	Covered by Children's Health Insurance Program: Recode
+hihse	Covered by Indian Health Service: Recode
+hilast	Time since had health coverage (no coverage now)
+hilastmo	Number of months without health insurance coverage during past 12 months
+himcaid	Has Medicaid insurance
+himcaide	Covered by Medicaid: Recode
+himcare	Has Medicare insurance
+himcaree	Covered by Medicare: Recode
+himedigap	Has Medi-Gap insurance
+himilany	Has any military health care coverage
+himilite	Covered by military health insurance: Recode
+hindian	Has Indian Health Service insurance
+hinoconf	Reasons for no insurance: Too difficult or confusing
+hinocostr	Reasons for no insurance: Too expensive
+hinoelig	Reasons for no insurance: Not eligible
+hinomeet	Reasons for no insurance: Plans don't meet needs
+hinomiss	Reasons for no insurance: Missed deadline
+hinone	Has no health insurance
+hinotcov	Has no health insurance (excluding single service plans)
+hinotcove	Health Insurance coverage status
+hinother	Reasons for no insurance: Other
+hinotyr	Had no health coverage at some point during past 12 months
+hinotyrmo	Months without health coverage, past 12 months
+hinounempr	Reasons for no insurance: Unemployment
+hinowait	Reasons for no insurance: Coverage has not started yet
+hinowant	Reasons for no insurance: Do not want or need coverage
+hiothgov	Covered by other public healthcare coverage
+hiothgove	Covered by other government program: Recode
+hiothgovplan	Exchange company coding, NCHS (HIOTHGOVE)
+hip1caid	Plan 1: Paid for by Medicaid
+hip1care	Plan 1: Paid for by Medicare
+hip1cost	Plan 1: Out-of-pocket premium cost
+hip1cvrotr	Private health insurance plan 1 covers someone other than policyholder
+hip1deduct	Private health insurance plan 1 has an annual deductible
+hip1dental	Plan 1: Has dental coverage
+hip1emp	Plan 1: Paid for by employer/union
+hip1hideduct	Plan 1: High deductible
+hip1howgot	Plan 1: How insurance obtained
+hip1ogov	Plan 1: Paid for by government program
+hip1othrsa	Plan 1: Sample adult's insurance plan covers sample child
+hip1othrsc	Plan 1: Sample child's insurance plan covers sample adult
+hip1out	Plan 1: Paid for by someone outside household
+hip1relpolicy	Plan 1: Relationship to outside policyholder
+hip1rxcov	Plan 1: Prescription drug benefit
+hip1savacc	Plan1: Health savings/reimbursement account
+hip1self	Plan 1: Paid for by self or family
+hip1vision	Private health insurance plan 1 covers routine vision care costs
+hip1who	Plan 1: Plan in whose name
+hip2caid	Plan 2: Paid for by Medicaid
+hip2care	Plan 2: Paid for by Medicare
+hip2cost	Plan 2: Out-of-pocket premium cost
+hip2cvrotr	Private health insurance plan 2 covers someone other than policyholder
+hip2deduct	Private health insurance plan 2 has an annual deductible
+hip2dental	Plan 2: Has dental coverage
+hip2emp	Plan 2: Paid for by employer/union
+hip2hideduct	Plan 2: High deductible
+hip2howgot	Plan 2: How plan was originally obtained
+hip2ogov	Plan 2: Paid for by government program
+hip2othrsa	Plan 2: Sample adult's insurance plan covers sample child
+hip2othrsc	Plan 2: Sample child's insurance plan covers sample adult
+hip2out	Plan 2: Paid for by someone outside household
+hip2relpolicy	Plan 2: Relationship to outside policyholder
+hip2rxcov	Plan 2: Prescription drug benefit
+hip2savacc	Plan2: Health savings/reimbursement account
+hip2self	Plan 2: Paid for by self or family
+hip2vision	Private health insurance plan 2 covers routine vision care costs
+hip2who	Plan 2: Plan in whose name
+hip2xchg	Private health insurance plan 2 was obtained through Health Insurance Exchange
+hiprivate	Has any private health insurance
+hiprivatee	Covered by private health insurance: Recode
+hiprobpayr	Problems paying or unable to pay medical bills, past 12 months
+hiprvexchng	Marketplace or state exchange, reassigned from public to private
+hiprvrsgxchg	Exchange company coding, NCHS, reassigned from public to private
+hispeth	Hispanic ethnicity
+hisprace	Hispanic ethnicity and self-reported race
+hispyn	Hispanic ethnicity, dichotomous
+histate	Has state-sponsored health plan insurance
+histatee	Covered by other state-sponsored health plan: Recode
+histateplan	Exchange company coding, NCHS (HISTATEE)
+histop1	Why coverage stopped: Lost job/changed employer
+histop23	Why coverage stopped: The cost for coverage increased
+histop24	Why coverage stopped: Missed deadline
+histop25	Why coverage stopped: No longer eligible for public coverage
+histop4	Why coverage stopped: Ineligible because of age/left school
+hitbitedif	Child kicks, hits, or bites others
+hitricare	Covered by TRICARE military health care
+hiunablepay	Unable to pay medical bills
+hiva	Covered by VA military health care
+hivae	Covered by VA military health care (edited)
+homecareyr	Received home care from health professional, past 12 months
+hospnght	Was in a hospital overnight in past 12 months
+hourswrk	Total hours worked last week or usually
+houscosts1y	Had trouble paying for housing, utilities during past year
+houyrsliv	Length of time in house or apartment
+hpv1stage	Age at first HPV shot
+hpvachad	Ever received HPV vaccine
+hrafreq	Frequency wearing hearing aid, past 12 months
+hraidfit	Hearing aid fit by professional
+hrauses	Uses hearing aid
+hrdifconv1nr	How difficult to hear conversation with 1 person in noisy room
+hrdifconv1qr	How difficult to hear conversation with 1 person in quiet room
+hrearinf3	Had three ear infection, past 12 months
+hrearinfect	Had ear infection, past 12 months
+hrfrprot	Frequency wore ear protection for firearms, past 12 months
+hriskfunyr	Exposed to leisure-time noise, past 12 months
+hriskwrkev	Ever regularly exposed to loud noise at job
+hriskwrktim	Time regularly exposed to loud noise at job
+hriskwrkyr	Exposed to loud noise at work, past 12 months
+hrlsprot	Wear ear protection at leisure, past 12 months
+hrprobamt	Amount of trouble with hearing
+hrsleep	Usual hours sleep per day
+hrtest	Ever had hearing tested by specialist
+hrtestlast	How long since last hearing test by specialist
+hrwhisp	Hears whisper across room
+hrwkprot	Frequency wore ear protection at job, past 12 months
+hyp2time	Ever told had hypertension on 2+ visits
+hypcheckgmo	Duration since last blood pressure check: Grouped months
+hypertenev	Ever told had hypertension
+hypertenyr	Had hypertension, past 12 months
+hypmednow	Now taking prescribed medicine to lower blood pressure
+hystev	Ever had a hysterectomy
+impincfam	Family income imputation flag
+imspchc	Current health condition weakens immune system
+imspmed12m	Medications/treatments weakened immune system, past 12 months
+incfam07on	Total combined family income (2007+)
+ind	Detailed industry
+indstrn204	Simple industry classification (2004 forward, NAICS)
+injany	Any injury, past 3 months
+injrepany	Any injury due to repetitive strain, past 3 months
+injrepsgchwk	Major change in work activities due to serious injury, past 3 months
+injrepsgdr	Saw doctor about significant repetitive strain injury, past 3 months
+injrepsgftwk	Will miss more work days due to significant repetitive strain injury in past 3 months
+injrepsgmswk	Number of work days missed due to significant repetitive strain injury, past 3 months
+injrepsgstwk	Stopped work or changed jobs due to significant repetitive strain injury, past 3 months
+injrepsgwkre	Ever told significant repetitive strain injury in past 3 months likely to be work-related
+injrepsig	Limited by repetitive strain injury for at least 24 hours (significant injury), past 3 months
+injsigbones	Any broken bones due to significant injury, past 3 months
+injsigchgwrk	Major change in work activities due to significant injury, past 3 months
+injsigchore	Significant injury occurred while doing chores, past 3 months
+injsiger	Went to ER for significant injury, past 3 months
+injsigfalhom	Significant fall occurred at home, past 3 months
+injsigfall	Significant injury occurred due to fall, past 3 months
+injsigfalsch	Significant fall occurred at school/daycare, past 3 months
+injsigfalwrk	Significant fall occurred at work, past 3 months
+injsigfutsch	Will miss more school days due to significant injury in past 3 months
+injsigfutwrk	Will miss more work days due to significant injury in past 3 months
+injsighome	Significant injury occurred at home, past 3 months
+injsighosp	Hospitalized for significant injury, past 3 months
+injsigmissch	Number of school days missed due to significant injury, past 3 months
+injsigmiswrk	Number of work days missed due to significant injury, past 3 months
+injsigmotor	Significant injury caused by a motor vehicle crash or collision, past 3 months
+injsigmvbicl	Significantly injured in motor vehicle accident, past 3 months: Was bicyclist
+injsigmvdrvr	Significantly injured in motor vehicle accident, past 3 months: Was driver
+injsigmvotr	Significantly injured in motor vehicle accident, past 3 months: Was other
+injsigmvpdtn	Significantly injured in motor vehicle accident, past 3 months: Was pedestrian
+injsigmvpsgr	Significantly injured in motor vehicle accident, past 3 months: Was passenger
+injsignfcnt	Limited by injury for at least 24 hours (significant injury), past 3 months
+injsignum	Number of significant injuries, past 3 months
+injsignumch	Number of significant injuries for children, past 3 months
+injsigsawdr	Saw doctor about significant injury, past 3 months
+injsigsch	Significant injury occurred at school/daycare, past 3 months
+injsigspor	Significant injury occurred while playing sports/exercising, past 3 months
+injsigstch	Any stitches or staples due to significant injury, past 3 months
+injsigstpwrk	Stopped work or changed jobs due to significant injury, past 3 months
+injsigwork	Significant injury occurred at work, past 3 months
+instatus	Status of interview
+insulin	Now taking insulin
+intdsnw	Currently has intellectual disability
+interimwt	Weight - Interim Annual
+interpret	Interpreter used during interview.
+intervlang	Language of interview
+intervlangc	Language of interview - sample children
+intervwmo	Month of NHIS interview
+intervwqtr	Calendar quarter of NHIS interview
+isparent	Sample adult is a parent of minor co-residential child
+isparentsc	Sample adult is the parent of the sample child
+jailev	Ever lived with a parent who was incarcerated
+jntmo	Had pain/aching at joints, past 30 days
+jntpainrate	Rating of joint pain, past 30 days
+juicemno	Frequency drinking 100 percent fruit juice, past month: Number of units
+juicemtp	Frequency drinking 100 percent fruit juice, past month: Time period
+kidneywkyr	Told had weak/failing kidneys, past 12 months
+kidslike	Liked by other kids, past 6 months
+kindtokids	Kind to younger kids, past 6 months
+lacomdifego	Amount of difficulty communicating in usual language
+lahanddif	Amount of difficulty picking up small objects or opening bottles
+lamemcondif	Amount of difficulty remembering or concentrating
+lamemdifamt	How much difficulty remembering
+lamemdifoft	How often have difficulty remembering
+lamemorcon	Difficulty remembering, concentrating, or both
+lamtwrk	Limited in kind/amount of work (health)
+langdoc	Language at doctor
+langhomeot	Language other than English spoken at home
+langhomespa	Spanish or other language spoken at home.
+langnews	Language for TV, news, radio
+langsoc	Language in social activities
+lara2litrdif	Amount of difficulty raising 2 liter bottle from waist to eye level
+lasped	Receives special education or early intervention services
+laspedem	Receives special education/services due to emotional problem
+lawalkclimdif	Amount of difficulty walking or climbing steps
+lawalkclimper	Use assistance from person walking/climbing/getting around
+lawalkclimperq	Use equipment or receive help walking/climbing/getting around
+lawashdresdif	Amount of difficulty washing or dressing
+learndev	Ever told had a learning disability
+learndif	Amount of difficulty learning things
+learndnw	Currently has a learning disability
+lessinsl	Took less insulin, past 12m
+liecheat	Often lies or cheats, past 6 months
+livebirth	Had live birth in the past 12 months
+liverchron	Ever had any chronic liver condition
+lkylossjob	Likely job loss
+longweight	Sample adult weight, longitudinal sample
+lowrent	Family pays lower rent due to government program
+macdegenev	Ever told had macular degeneration
+macdegvlos	Lost vision because of macular degeneration
+mam1ageg	Age at first mammogram
+mam1y	Reason for first mammogram
+mamev	Ever had a mammogram
+mamlgyre	Time since most recent mammogram: Rough time estimate
+mamly	Reason for most recent mammogram
+mampcost	Portion of cost paid for mammogram
+mamynoev2yr	Reason why no mammogram ever/in past 2 years
+marriedev	Ever been married
+marstcur	Current marital status
+marstleg	Legal marital status
+mashlth	Saw a practitioner of massage to restore overall health
+maspain	Saw a practitioner of massage for pain
+masyr	Saw provider for massage, past 12 months
+maxeduc	Highest level of education of all the adults in SA's/SC's family
+mcadvntg	Enrolled in Medicare Advantage plan
+mcadvr	Medicare Advantage plan or private plan
+mcaideduct	Has Medicaid deductible
+mcaidprem	Enrollment fee or premium for Medicaid plan
+mcaidprob	Medicaid coverage probe response
+mcaidxchg	Obtained Medicaid through Health Insurance Exchange
+mcarepartd	Medicare Part D
+mcareprob	Medicare coverage probe answer
+mcaretyp	Type of Medicare coverage
+mcdhideduct	Medicaid coverage has a high deductible
+mchmo	Under a Medicare managed care arrangement
+mdalcadv	Health provider gave advice on alcohol, past 12 months
+mdexupadv	Advised to increase exercise, past 12 months
+mdsmqadv	Health provider advised to quit smoking, past 12 months
+mdsmqadvrx	Health professional advised ways to stop smoking or prescribed medication, past 12 months
+mentdepev	Ever lived with anyone mentally ill or severely depressed
+mhrx	Took medication for emotions/concentration/behavior, past 12 months
+misswork12m	Days missed work due to illness/injury/disability, past 12 months
+mkfrndif	Amount of difficulty making friends
+mltfamflag	Flag indicating multifamily household
+mod10dmin	Duration of moderate activity 10+ minutes: Minutes
+mod10dno	Duration of moderate activity 10+ minutes: Number of units
+mod10dtp	Duration of moderate activity 10+ minutes: Time period
+mod10fno	Frequency of moderate activity 10+ minutes: Number of units
+mod10ftp	Frequency of moderate activity 10+ minutes: Time period
+mod10fwk	Frequency of moderate activity 10+ minutes: Times per week
+nathlth	Saw a naturopath to restore overall health
+natpain	Saw a naturopath for pain
+natyr	Used naturopathy, past 12 months
+nhishid	NHIS Unique identifier, household
+nhispid	NHIS Unique Identifier, person
+nhispidprvyr	NHIS unique identifier for previous year, person
+noniview	Noninterview reason, Type A
+notcarcost	Reason for not getting care: cost too much
+nowaf	Currently in armed forces
+numadults	Number of adults in Sample Adult/Sample Child family, top-coded 3+
+numresprnt	Number of sample child's residential parents
+occ	Detailed occupation
+occupn204	Simple occupational classification (2004 forward)
+oddev	Ever told had other developmental delay
+oddnw	Currently has other developmental delay
+onefamflag	Flag indicating single family household
+opioid3mo	Used prescription opioids during the past 3 months
+opioidapain	Used prescription opioids for acute pain during the past 3 months
+opioidcpain	Used prescription opioids for chronic pain during the past 3 months
+opioidfreq	How often used prescription opioids during the past 3 months
+opioidyr	Used prescription opioids during the past 12 months
+otherpresa	Other person present during interview - sample adult
+otherpresc	Other person present during interview - sample children
+othgovdedt	Other government program has deductible
+othgovhidedt	Other government program has a high deductible
+othgovprem	Enrollment fee or premium for other government program
+othgovxchg	Obtained other government program insurance through Health Insurance Exchange
+over65flg	At least one person aged 65+ in sample adult/sample child's family
+overactive	Restless or overactive, past 6 months
+ownership	Family's home owned or rented
+pa18aer	Physical activity met 2018 guidelines for aerobic activity
+pa18aerstr	Physical activity met 2018 guidelines for aerobic and/or strengthening activity
+padays	How often child exercises for at least 60 minutes in typical week during school year
+paidsick	Paid sick leave at current job
+painabs3m	How much ab, pelvic, genital pain, past 3 months
+painarms3m	How much arm, shoulder, hand pain, past 3 months
+painback3m	How much back pain, past 3 months
+painfeelevl	Level of pain, last time had pain
+painfreq3mo	Frequency of pain in last 3 months
+painhead3m	How much pain from headaches or migraines, past 3 months
+painlegs3m	How much hip, knee, feet pain, past 3 months
+painlimact	How often pain limits activities
+painlimfam	How often pain affects family
+painmeff	How effective at managing pain, past 3 months
+paintooth3m	How much jaw or tooth pain, past 3 months
+paintrcbt	Used talk therapies (such as CBT) to manage pain
+paintrchiro	Used chiropractic care to manage pain
+paintrexc	Used exercise to manage pain
+paintrgrp	Used chronic pain peer support groups to manage pain
+paintrmed	Used meditation or other relaxation techniques to manage pain
+paintrmsg	Used massage to manage pain
+paintrotc	Used over the counter medicines to manage pain
+paintroth	Used other methods to manage pain
+paintrpt	Used physical therapy to manage pain
+paintrrx	Used prescribed medicines to manage pain
+paintrwksp	Used self-management program or workshop to manage pain
+paintryoga	Used yoga or Tai Chi to manage pain
+par1age	Age of sample child's first resident parent
+par1full	Sample child's first resident parent works 35+ hours per week
+par1marcur	Current marital status of sample child's first residential parent
+par1marleg	Legal marital status of sample child's first residential parent
+par1marst	Current marital status of sample child's first resident parent
