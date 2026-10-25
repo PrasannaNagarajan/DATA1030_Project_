@@ -1,0 +1,2 @@
+ipumspy
+python-dotenv
